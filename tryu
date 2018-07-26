@@ -1,0 +1,8 @@
+def multiples(250):
+    sum = 0
+    for x in range(250):
+        if x % 9 ==0:
+            sum += x
+    return sum
+    
+    
