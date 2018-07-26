@@ -4,5 +4,6 @@ def multiples(250):
         if x % 9 ==0:
             sum += x
     return sum
+    print(sum);
     
     
